@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tawra-core-jvm">
+    <output-path>$PROJECT_DIR$/tawra-core/build/libs</output-path>
+    <root id="archive" name="tawra-core-jvm.jar" />
+  </artifact>
+</component>
